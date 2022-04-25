@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_register_display_user",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-codegym:codegym-vn/Nodejs_Register_Display_User.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qs": "^6.10.3"
+  }
+}
